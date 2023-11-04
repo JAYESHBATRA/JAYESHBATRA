@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbatra&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbatra" /> </p>
 
-- 🔭 I’m currently working as an Open Source Contributor at **GirlScript Summer Of Code**
+- 🔭 I worked as an Open Source Contributor at **GirlScript Summer Of Code**
 
 - 🌱 I’m currently learning about **Operating Systems & Databases**
 
