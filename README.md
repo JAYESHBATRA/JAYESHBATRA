@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **jayeshbatra1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CybaWg9dGIyA8njdtc_VSPiOzIMYVmkO/edit?usp=sharing&ouid=110413149937113037167&rtpof=true&sd=true](https://docs.google.com/document/d/1CybaWg9dGIyA8njdtc_VSPiOzIMYVmkO/edit?usp=sharing&ouid=110413149937113037167&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayesh-batra-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-batra-in" height="30" width="40" /></a>
