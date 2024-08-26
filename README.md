@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayesh Batra</h1>
-<h3 align="center">I am a dynamic and ambitious full stack developer currently pursuing a Bachelor's degree in Electrical and Electronics Engineering from DTU (Delhi Technological University).</h3>
+<h3 align="center">I am a dynamic and ambitious full stack developer currently pursuing a Bachelor's degree in Electrical Engineering from DTU (Delhi Technological University).</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbatra&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbatra" /> </p>
 
-- 🔭 I have worked as a Project Admin at **GirlSript Summer Of Code**
+- 🔭 I have worked as a Project Admin at **GirlScript Summer Of Code**
 
 - 🌱 I’m currently learning about **Operating Systems & Databases**
 
