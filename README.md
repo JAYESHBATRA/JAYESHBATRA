@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jayesh Batra</h1>
 <h3 align="center">Full Stack Developer | Salesforce Intern | Electrical Engineering @ DTU</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbatra&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbatra" /> </p>
+
 > “I don’t get lucky. I make my own luck.”
 
 ### 👨‍💻 About Me
