@@ -3,9 +3,8 @@
 
 ---
 
-### 💬 Favorite Quote
+
 > “I don’t get lucky. I make my own luck.”  
-> — *Harvey Specter*
 
 ---
 
@@ -21,9 +20,8 @@
 - ⚡ Building <strong>ResultHub</strong> — used by 30,000+ students across DTU, NSUT & IGDTUW  
 - 🚀 Passionate about Web Development, DSA & impactful products  
 - 🧪 Worked on simulations: *Elastic Collision*, *Physical Pendulum*, *Oscillations*  
-- 🎓 Electrical Engineering student at Delhi Technological University (DTU)  
-- ♟️ Fun Fact: I love playing chess — strategy defines my code and my moves  
-
+- 🏆 **Department Rank 1 (Electrical Engineering)** at **Delhi Technological University (DTU)**
+- ♟️ Fun Fact: I love playing chess
 ---
 
 ### 🛠️ Tech Stack
