@@ -1,19 +1,37 @@
 <h1 align="center">Hi 👋, I'm Jayesh Batra</h1>
-<h3 align="center">I am a dynamic and ambitious full stack developer currently pursuing a Bachelor's degree in Electrical Engineering from DTU (Delhi Technological University).</h3>
+<h3 align="center">Full Stack Developer | Salesforce Intern | Electrical Engineering @ DTU</h3>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbatra&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbatra" /> </p>
+### 💬 Favorite Quote
+> “I don’t get lucky. I make my own luck.”  
+> — *Harvey Specter*
 
-- 🔭 I have worked as a Project Admin at **GirlScript Summer Of Code**
+---
 
-- 🌱 I’m currently learning about **Operating Systems & Databases**
+### 🧩 Competitive Programming
+- 🧠 **Expert** on <a href="https://codeforces.com/">Codeforces</a>  
+- ⭐ **4★** on <a href="https://www.codechef.com/">CodeChef</a>  
+- 🛡️ **Guardian** on <a href="https://leetcode.com/">LeetCode</a>  
 
-- 📝 I regularly write articles on [https://jayeshbatra.hashnode.dev/](https://jayeshbatra.hashnode.dev/)
+---
 
-- 💬 Ask me about **React JS, MongoDB, Express JS, Node JS**
+### 👨‍💻 About Me
+- 💻 **Salesforce Intern (AMTS)**
+- ⚡ Building <strong>ResultHub</strong> — used by 30,000+ students across DTU, NSUT & IGDTUW  
+- 🚀 Passionate about Web Development, DSA & impactful products  
+- 🧪 Worked on simulations: *Elastic Collision*, *Physical Pendulum*, *Oscillations*  
+- 🎓 Electrical Engineering student at Delhi Technological University (DTU)  
+- ♟️ Fun Fact: I love playing chess — strategy defines my code and my moves  
 
-- 📫 How to reach me **jayeshbatra1@gmail.com**
+---
 
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Languages:** C++, JavaScript, Python  
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayesh-batra-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayesh-batra-in" height="30" width="40" /></a>
